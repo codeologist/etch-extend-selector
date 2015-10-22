@@ -1,0 +1,25 @@
+{
+  "name": "etch-extend-selector",
+  "version": "0.0.1",
+  "description": "Selector engine extension for ETCH",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-mocha": "^0.4.12",
+    "grunt-mocha-test": "^0.12.7",
+    "mocha": "^2.2.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeologist/etch-extend-selector.git"
+  },
+  "author": "coder451@codeology.co.nz",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/codeologist/etch-extend-selector/issues"
+  },
+  "homepage": "https://github.com/codeologist/etch-extend-selector#readme"
+}

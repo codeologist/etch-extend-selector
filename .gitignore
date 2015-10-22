@@ -1,3 +1,9 @@
+/Contents/*
+.DS_Store
+*.cmp
+a.json
+results.txt
+
 # Logs
 logs
 *.log
