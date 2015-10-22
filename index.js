@@ -53,12 +53,11 @@
         return EtchFlatten( this ).filter( filter1.bind( null,tag ) );
     }
 
-    function Selector(){
-        this.name="EtchBasicSelectorEngine";
-
+    function Selector( window, document ){
+        this.name="selector";
     }
 
-    Selector.prototype.init = function(){
+    Selector.prototype.init = function( window, document ){
 
     };
 
